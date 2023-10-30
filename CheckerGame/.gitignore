@@ -1,0 +1,48 @@
+# Maven specific
+target/
+*.iml
+
+# Eclipse specific
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA specific
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# TestNG reports
+test-output/
+
+# Logs
+logs/
+*.log
+
+# Compiled Java class files
+*.class
+
+# Editor-specific files
+*.swp
+*.swo
+
+# Selenium-specific files
+geckodriver.log
+
+# ChromeDriver log
+chromedriver.log
+
+# IDE-specific directories and files
+.vscode/
+*.code-workspace
+*.code-workspace-bak
+
+# Configuration files
+*.properties
+
+# Environment-specific configuration
+.env
+
+# RestAssured logs
+*.xml
